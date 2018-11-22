@@ -27,7 +27,7 @@ public class AccountResource {
 
     /**
      * GET  /authenticate : check if the user is authenticated, and return its login.
-     *
+     * Test Committ
      * @param request the HTTP request
      * @return the login if the user is authenticated
      */
@@ -40,7 +40,7 @@ public class AccountResource {
 
     /**
      * GET  /account : get the current user.
-     *
+     * Test Committ
      * @return the ResponseEntity with status 200 (OK) and the current user in body, or status 500 (Internal Server
      * Error) if the user couldn't be returned
      */
